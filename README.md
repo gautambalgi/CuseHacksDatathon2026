@@ -42,7 +42,7 @@ participants/track1/
 - **Category 1** – Pretrained vision model weights allowed
 - **Category 2** – All weights trained from scratch only
 
-📄 [Full Track 1 Guidelines](participants/track1/Participant%20Guidelines.md)
+📄 [Full Track 1 Guidelines]((https://github.com/innovateorange/CuseHacksDatathon2026/blob/main/track1/Participant%20Guidelines.md))
 
 ---
 
@@ -64,7 +64,7 @@ participants/track2/
 - **Category 1** – Pretrained word embeddings allowed (Word2Vec, GloVe, FastText, etc.)
 - **Category 2** – All representations learned from scratch only
 
-📄 [Full Track 2 Guidelines](participants/track2/Participant%20Guidelines.md)
+📄 [Full Track 2 Guidelines]((https://github.com/innovateorange/CuseHacksDatathon2026/blob/main/track2/Participant%20Guidelines.md))
 
 ---
 
