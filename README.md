@@ -166,7 +166,13 @@ teamname_track3.zip
 
 ## 🔥 Prizes
 
-*Prize details will be announced at the opening ceremony.*
+We have 12 Prizes to be distributed as follows:
+
+Track 3: Gets First Pick
+
+Track 1: Gets Second Pick
+
+Track 2: Gets Third Pick
 
 ---
 
