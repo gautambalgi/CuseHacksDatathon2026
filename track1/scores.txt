@@ -1,0 +1,1 @@
+TTA + EfficientNet-B3 + 2-layer classifier: Macro F1 = 0.8667
